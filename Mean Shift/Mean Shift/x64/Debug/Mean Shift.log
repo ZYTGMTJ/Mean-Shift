@@ -1,0 +1,16 @@
+﻿  Mean Shift.cpp
+d:\opencv\tools\opencv_contrib\install\include\opencv2\core\mat.hpp(2586): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv\tools\opencv_contrib\install\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv\tools\opencv_contrib\install\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv\tools\opencv_contrib\install\include\opencv2\imgproc.hpp(592): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\实验室\目标测距跟踪\1.源代码\7.算法测试\mean shift\mean shift\mean shift.cpp(101): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\实验室\目标测距跟踪\1.源代码\7.算法测试\mean shift\mean shift\mean shift.cpp(103): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\实验室\目标测距跟踪\1.源代码\7.算法测试\mean shift\mean shift\mean shift.cpp(104): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\实验室\目标测距跟踪\1.源代码\7.算法测试\mean shift\mean shift\mean shift.cpp(187): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\实验室\目标测距跟踪\1.源代码\7.算法测试\mean shift\mean shift\mean shift.cpp(189): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\实验室\目标测距跟踪\1.源代码\7.算法测试\mean shift\mean shift\mean shift.cpp(190): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\实验室\目标测距跟踪\1.源代码\7.算法测试\mean shift\mean shift\mean shift.cpp(225): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+f:\实验室\目标测距跟踪\1.源代码\7.算法测试\mean shift\mean shift\mean shift.cpp(226): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+f:\实验室\目标测距跟踪\1.源代码\7.算法测试\mean shift\mean shift\mean shift.cpp(295): warning C4101: “res”: 未引用的局部变量
+  Mean Shift.vcxproj -> F:\实验室\目标测距跟踪\1.源代码\7.算法测试\Mean Shift\x64\Debug\Mean Shift.exe
+  Mean Shift.vcxproj -> F:\实验室\目标测距跟踪\1.源代码\7.算法测试\Mean Shift\x64\Debug\Mean Shift.pdb (Partial PDB)
